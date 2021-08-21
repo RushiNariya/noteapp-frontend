@@ -1,0 +1,34 @@
+.navlink {
+  text-decoration: none;
+  color: white;
+}
+
+.navlink:hover {
+  color: white;
+}
+.appbar {
+  background-color: #2e5c4d !important;
+  height: 4.5rem;
+}
+
+.MuiToolbar-gutters {
+  padding-left: 1px !important;
+  padding-right: 1px !important;
+}
+
+.MuiButton-root {
+  min-width: 0px !important;
+  letter-spacing: 0 !important;
+  font-size: 0.8rem !important;
+}
+
+.MuiButton-label {
+  color: white !important;
+}
+
+a,
+a:active,
+a:hover {
+  text-decoration: none;
+  color: black;
+}
